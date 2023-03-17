@@ -1,0 +1,14 @@
+Guide to Threat Hunting:
+    https://www.threathunting.net/files/hunt-evil-practical-guide-threat-hunting.pdf
+    
+Sysinterals Guide:
+    https://www.makeuseof.com/windows-sysinternals-guide/
+
+Windows Processes of Interest:
+    https://infosecwriteups.com/windows-threat-hunting-processes-of-interest-4577fe35d32f
+
+Hunting for Persistence:
+    https://www.cyborgsecurity.com/cyborg-labs/hunting-for-persistence-registry-run-keys-startup-folder/
+    
+Windows Registry, Hunting for Persistence:
+    https://sensei-infosec.netlify.app/forensics/registry/persistence/2020/04/15/malware-persistence-registry.html
